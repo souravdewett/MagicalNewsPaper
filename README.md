@@ -1,0 +1,2 @@
+# MagicalNewsPaper
+iOS AR Application
